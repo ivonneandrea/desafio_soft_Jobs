@@ -1,0 +1,48 @@
+
+Started GET / for :: ::1 at Sun Jul 07 2024 18:46:09 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 161 ms Request ID: [f79a8965-6a19-496a-ba4b-d4253ff52890]
+
+Started POST /login%20 for :: ::ffff:127.0.0.1 at Sun Jul 07 2024 18:47:48 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 7 ms Request ID: [b06489cf-5795-49db-96e2-cde784a8f082]
+
+Started POST /register for :: ::ffff:127.0.0.1 at Sun Jul 07 2024 18:47:58 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [76da1b9e-209e-4cd3-b115-8113c132a29b]
+
+Started POST /register for :: ::ffff:127.0.0.1 at Sun Jul 07 2024 18:47:59 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [fbea2f66-70d9-4281-8724-6be3628454dd]
+
+Started POST /register for :: ::ffff:127.0.0.1 at Sun Jul 07 2024 18:47:59 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [0a9c2cf4-3636-4294-823b-e386124cff34]
+
+Started POST / for :: ::ffff:127.0.0.1 at Sun Jul 07 2024 18:48:32 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [d6ffa1c8-64e9-4d3e-97f4-34413cc84b67]
+
+Started POST /login%20 for :: ::ffff:127.0.0.1 at Sun Jul 07 2024 18:48:47 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [4c171478-012c-4bb2-b7c5-6781c6c09ee6]
+
+Started POST /login%20 for :: ::ffff:127.0.0.1 at Sun Jul 07 2024 18:48:48 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [4d21cae8-650d-4b2a-b37d-a21c9f956e13]
+
+Started POST /login%20 for :: ::ffff:127.0.0.1 at Sun Jul 07 2024 18:48:48 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 5 ms Request ID: [316583f2-2a2b-40fb-be70-5bd3609d60e1]
+
+Started POST /login%20 for :: ::ffff:127.0.0.1 at Sun Jul 07 2024 18:48:49 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 5 ms Request ID: [ecaa6214-b8a1-405e-ba64-6b64d01ee8f0]
+
+Started POST /registrarse for :: ::ffff:127.0.0.1 at Sun Jul 07 2024 18:49:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [646f7396-13f8-4fb1-8e8d-3bbec6a15399]
+
+Started POST /registrarse for :: ::ffff:127.0.0.1 at Sun Jul 07 2024 18:49:08 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [3334525c-c796-4720-975e-79fa3e32c078]
